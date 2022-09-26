@@ -59,5 +59,5 @@
  8. Bài toán kinh điển: **Tô màu đồ thị**
  > Trên đây là nội dung danh sách của nhưng source code trong repo này
  
- > Nếu bạn thấy hữu ích, đừng quên thả sao cho mình nhé :fire:
+ > Nếu bạn thấy hữu ích, đừng quên tặng sao cho mình nhé :fire:
         
