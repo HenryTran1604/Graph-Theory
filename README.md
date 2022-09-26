@@ -22,6 +22,7 @@
         > Cạnh cầu là cạnh mà khi bỏ nó đi, số thành phần liên thông của đồ thị tăng lên
     * Liệt kê các đỉnh trụ
         > Đỉnh trụ là đỉnh mà khi bỏ nó đi, số thành phần liên thông của đồ thị tăng lên
+    * Tìm cây khung với DFS và BFS
     * Đồ thị 2 phía
     
     **Đối với đồ thị CÓ HƯỚNG**
